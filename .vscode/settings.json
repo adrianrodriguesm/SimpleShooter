@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/Desktop/UnrealCourse/SimpleShooter/.vs": true,
+		"D:/Desktop/UnrealCourse/SimpleShooter/.vscode": true,
+		"D:/Desktop/UnrealCourse/SimpleShooter/Content": true,
+		"D:/Desktop/UnrealCourse/SimpleShooter/DerivedDataCache": true,
+		"D:/Desktop/UnrealCourse/SimpleShooter/Intermediate": true,
+		"D:/Desktop/UnrealCourse/SimpleShooter/Saved": true
+	}
+}
