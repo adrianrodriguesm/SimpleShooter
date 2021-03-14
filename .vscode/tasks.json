@@ -9,13 +9,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"SimpleShooter",
 				"Win32",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"SimpleShooter",
 				"Win32",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"SimpleShooter",
 				"Win32",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"SimpleShooter",
 				"Win32",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"SimpleShooter",
 				"Win32",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"SimpleShooter",
 				"Win32",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"SimpleShooter",
 				"Win32",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"SimpleShooter",
 				"Win32",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"SimpleShooter",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"SimpleShooter",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"SimpleShooter",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"SimpleShooter",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"SimpleShooter",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -441,13 +441,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"SimpleShooter",
 				"Win64",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -467,7 +467,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -478,13 +478,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Shipping",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -495,13 +495,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 				"SimpleShooter",
 				"Win64",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -532,13 +532,13 @@
 				"SimpleShooter",
 				"Win64",
 				"Test",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -549,13 +549,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -575,7 +575,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -586,13 +586,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Debug",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -603,13 +603,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -620,7 +620,7 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -629,7 +629,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -640,13 +640,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -657,13 +657,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -674,7 +674,7 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -683,7 +683,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		},
 		{
@@ -694,13 +694,13 @@
 				"SimpleShooterEditor",
 				"Win64",
 				"Development",
-				"D:\\Desktop\\UnrealCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\SimpleShooter.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Program Files (x86)\\UE_4.25"
+				"cwd": "C:\\Program Files (x86)\\UE_4.26"
 			}
 		}
 	]
