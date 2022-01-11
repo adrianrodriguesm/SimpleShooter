@@ -1,0 +1,13 @@
+{
+ "PluginInfo": {
+  "Project": "SimplesShooterSound",
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "Plugins": [
+   {
+    "Name": "System",
+    "ID": "11403271"
+   }
+  ]
+ }
+}
