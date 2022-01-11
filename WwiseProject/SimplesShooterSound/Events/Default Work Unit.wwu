@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{8AFEA73A-346D-44D2-8265-C6F14DD3B302}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{8AFEA73A-346D-44D2-8265-C6F14DD3B302}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{8AFEA73A-346D-44D2-8265-C6F14DD3B302}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Atmos_play" ID="{31DF8F9B-9A63-4774-AC28-560160069D34}">
+					<ChildrenList>
+						<Action Name="" ID="{C881E471-83AF-45B1-9AE1-314E56F5E92A}" ShortID="779001098">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Atmos_1" ID="{F979684B-0D9C-4C93-BD8E-D6B5C1595F05}" WorkUnitID="{2950484F-9058-4CEA-937B-F27A3A427901}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

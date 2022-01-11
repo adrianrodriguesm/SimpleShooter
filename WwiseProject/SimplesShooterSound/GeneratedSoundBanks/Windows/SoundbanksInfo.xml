@@ -11,24 +11,15 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="303834318">
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="837375629">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="4056684167" GUID="{C67BDBEF-178E-400F-B004-7030707652F6}" Language="SFX" Hash="3393795665">
+		<SoundBank Id="4056684167" GUID="{72700ECC-B891-4153-844B-16E4F8403D57}" Language="SFX" Hash="1432202519">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
-			<IncludedEvents>
-				<Event Id="2351444254" Name="Atmos_Play" ObjectPath="\Events\Default Work Unit\Atmos\Atmos_Play" GUID="{D178E57A-83D5-46DA-84B5-85545416866C}" DurationType="OneShot" DurationMin="152.229202" DurationMax="152.229202"/>
-			</IncludedEvents>
-			<IncludedMemoryFiles>
-				<File Id="1011943984" Language="SFX">
-					<ShortName>SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj.wav</ShortName>
-					<Path>SFX/SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj_10C4C929.wem</Path>
-				</File>
-			</IncludedMemoryFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2351444254	Atmos_play			\Default Work Unit\Atmos_play	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	347618856	Atmos_1	Y:\Repos\SimpleShooter\WwiseProject\SimplesShooterSound\.cache\Mac\SFX\SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Atmos\Atmos_1		29228072
+

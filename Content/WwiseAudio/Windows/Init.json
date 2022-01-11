@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/",
+   "SourceFilesRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/.cache/Windows/",
+   "SoundBanksRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/Content/WwiseAudio/Windows/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/GeneratedSoundBanks/Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "837375629",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

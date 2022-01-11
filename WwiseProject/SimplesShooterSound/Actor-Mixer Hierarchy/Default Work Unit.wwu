@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2950484F-9058-4CEA-937B-F27A3A427901}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{2950484F-9058-4CEA-937B-F27A3A427901}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2950484F-9058-4CEA-937B-F27A3A427901}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="Atmos" ID="{799F799B-B6CC-4A21-BC1D-9FBF8B02FE91}" ShortID="497418340">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1284BF3B-E823-476A-94C6-78FA94E77310}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{69F5E9C9-59B9-4545-9149-694A3FC6EEBC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Atmos_1" ID="{F979684B-0D9C-4C93-BD8E-D6B5C1595F05}" ShortID="191943511">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1284BF3B-E823-476A-94C6-78FA94E77310}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{69F5E9C9-59B9-4545-9149-694A3FC6EEBC}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj" ID="{E14868E8-0D01-4B1F-A1E9-1159B9E57A26}">
+									<Language>SFX</Language>
+									<AudioFile>SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="347618856"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj" ID="{E14868E8-0D01-4B1F-A1E9-1159B9E57A26}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

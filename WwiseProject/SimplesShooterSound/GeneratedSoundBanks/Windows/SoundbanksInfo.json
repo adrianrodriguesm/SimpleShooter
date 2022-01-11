@@ -19,38 +19,19 @@
     "Id": "1355168291",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "303834318",
+    "Hash": "837375629",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk"
    },
    {
     "Id": "4056684167",
-    "GUID": "{C67BDBEF-178E-400F-B004-7030707652F6}",
+    "GUID": "{72700ECC-B891-4153-844B-16E4F8403D57}",
     "Language": "SFX",
-    "Hash": "3393795665",
+    "Hash": "1432202519",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
-    "Path": "Master.bnk",
-    "IncludedEvents": [
-     {
-      "Id": "2351444254",
-      "Name": "Atmos_Play",
-      "ObjectPath": "\\Events\\Default Work Unit\\Atmos\\Atmos_Play",
-      "GUID": "{D178E57A-83D5-46DA-84B5-85545416866C}",
-      "DurationType": "OneShot",
-      "DurationMin": "152.229202",
-      "DurationMax": "152.229202"
-     }
-    ],
-    "IncludedMemoryFiles": [
-     {
-      "Id": "1011943984",
-      "Language": "SFX",
-      "ShortName": "SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj.wav",
-      "Path": "SFX/SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj_10C4C929.wem"
-     }
-    ]
+    "Path": "Master.bnk"
    }
   ]
  }

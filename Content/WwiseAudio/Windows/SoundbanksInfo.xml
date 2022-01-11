@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/</ProjectRoot>
+		<SourceFilesRoot>/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/Content/WwiseAudio/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="837375629">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4056684167" GUID="{72700ECC-B891-4153-844B-16E4F8403D57}" Language="SFX" Hash="640123258">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2351444254" Name="Atmos_play" ObjectPath="\Events\Default Work Unit\Atmos_play" GUID="{31DF8F9B-9A63-4774-AC28-560160069D34}" DurationType="OneShot" DurationMin="152.229202" DurationMax="152.229202">
+					<IncludedMemoryFiles>
+						<File Id="347618856" Language="SFX">
+							<ShortName>SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj.wav</ShortName>
+							<Path>SFX/SCIShip_Drone Spaceship_PSE_BW-BD3HL_dbmGj_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

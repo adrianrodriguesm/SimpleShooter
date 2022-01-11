@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/",
+   "SourceFilesRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/.cache/Mac/",
+   "SoundBanksRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/GeneratedSoundBanks/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "/Users/carlosberrizbeitia/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Repos/SimpleShooter/WwiseProject/SimplesShooterSound/GeneratedSoundBanks/Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "4056684167",
+    "GUID": "{72700ECC-B891-4153-844B-16E4F8403D57}",
+    "Language": "SFX",
+    "Hash": "1432202519",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
+    "ShortName": "Master",
+    "Path": "Master.bnk"
+   }
+  ]
+ }
+}
