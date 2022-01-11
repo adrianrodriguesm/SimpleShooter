@@ -1,9 +1,12 @@
 {
-	"configurations": [
-		{
-			"name": "SimpleShooterEditor Editor Win64 Development (SimpleShooter)",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "SimpleShooterEditor Editor Win64 Development (SimpleShooter)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Desktop\\Dev - Support\\Unreal\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }
